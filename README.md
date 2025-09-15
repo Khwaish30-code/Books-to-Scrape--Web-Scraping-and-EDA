@@ -69,16 +69,16 @@ Final dataset (`final.csv`) contains the following columns:
    # On macOS/Linux
    source venv/bin/activate
 
-3. **Install requirements:
+3. **Install requirements**
    ```bash
    pip install -r requirements.txt
 
-4. **Run the scraper
+4. **Run the scraper**
    ```bash
    python scraper.py
 → This will generate CSV files inside the data/ folder.
 
-5. **Open the Jupyter notebook
+5. **Open the Jupyter notebook**
     ```bash
    jupyter notebook main.ipynb
 
