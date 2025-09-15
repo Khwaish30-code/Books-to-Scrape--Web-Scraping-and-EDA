@@ -7,7 +7,7 @@ Data was scraped from the [Books to Scrape](https://books.toscrape.com) website,
 ---
 
 ## 📂 Project Structure  
-data/
+```data/
 ├── Books.csv        # Scraped book details (title, rating, price, etc.)
 ├── data.csv         # Additional details from book pages (category, upc, etc.)
 ├── final.csv        # Combined cleaned dataset for analysis
@@ -15,4 +15,6 @@ books_scraper.py      # Python script for scraping
 books_analysis.ipynb  # Jupyter notebook with EDA & insights
 requirements.txt      # Required Python libraries
 README.md             # Project README
+```
+
 
