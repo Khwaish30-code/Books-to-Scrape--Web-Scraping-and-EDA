@@ -1,4 +1,4 @@
-# 📚 Books to Scrape – Web Scraping & EDA  
+# 📚 BookScraper: EDA on Online Books  
 
 ## 🔍 Project Overview  
 This project demonstrates an **end-to-end data pipeline** starting from **web scraping**, followed by **data storage**, and then **exploratory data analysis (EDA)**.  
